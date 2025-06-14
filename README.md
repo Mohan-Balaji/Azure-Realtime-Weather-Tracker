@@ -71,7 +71,7 @@ Azure Realtime Weather Tracker collects live weather data from public APIs, proc
 
    ```bash
    npm run build
-   ```
+   ```d
 
 ## 📦 Example Response
 
