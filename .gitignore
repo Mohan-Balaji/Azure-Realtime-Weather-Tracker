@@ -1,0 +1,13 @@
+    # Ignore compiled output
+    *.class
+    *.exe
+
+    # Ignore log files
+    *.log
+
+    # Ignore node modules
+    /node_modules/
+
+    # Ignore temporary files
+    *.tmp
+    *.env
