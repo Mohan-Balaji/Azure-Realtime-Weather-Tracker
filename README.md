@@ -87,7 +87,8 @@ Azure Realtime Weather Tracker collects live weather data from public APIs, proc
 
 ## 📸 Screenshots
 
-yet to update
+<img width="667" height="431" alt="image" src="https://github.com/user-attachments/assets/db6b7b4f-2818-4d1b-bd3e-efc65cce7f98" />
+
 
 ## 🧑‍💻 Author
 
